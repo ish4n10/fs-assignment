@@ -1,0 +1,31 @@
+# Environment
+venv/
+.venv/
+env/
+.env
+*.pyc
+__pycache__/
+*.pyo
+.Python
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Data (keep structure, ignore content)
+data/transcripts/*
+data/audio/*
+data/logs/*
+!data/transcripts/.gitkeep
+!data/audio/.gitkeep
+!data/logs/.gitkeep
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Credentials
+*.json
+!package.json

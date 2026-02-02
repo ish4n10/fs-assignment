@@ -1,0 +1,11 @@
+interviewer: Hello! Thanks for coming in. Today, we're going to look into a Root Cause Analysis scenario.
+
+Amazon has noticed a 20% drop in daily active users in India. How would you investigate this?
+user: can you tell me again related to how you
+interviewer: Apologies, let me rephrase. Amazon has noticed a 20% drop in daily active users in India. How would you investigate this?
+user: I think first of all I will look if there is any festival or any event going on in India due to which I might have less sales in that period of time if that is the case I will um or maybe inform the marketing team to advertise more towards the festivals and stuff
+interviewer: That's an interesting initial thought. Before jumping to solutions, what would be your very first step to understand the problem better?
+user: (no speech detected)
+interviewer: No worries, take your time. If you had to define your absolute first step to investigate this 20% drop in DAU, what would it be?
+user: I think I will first of all look at which areas in which areas the Marketing sales or the selling is going down I will act accordingly due to them
+interviewer: That makes sense. Before diving into specific areas, how would you define "Daily Active User" for Amazon? What actions count towards being an active user?

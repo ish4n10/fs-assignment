@@ -1,0 +1,6 @@
+python-dotenv
+google-generativeai
+google-cloud-texttospeech
+google-cloud-speech
+pyaudio
+pydub
