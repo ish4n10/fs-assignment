@@ -54,3 +54,31 @@ bun dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 The demo is [https://frontend-fs-assignment.vercel.app/](https://frontend-fs-assignment.vercel.app/)
 
+
+# Task 3, Resume site review 
+
+## Rezi.ai
+### First Impressions and UX
+I’ll be honest: seeing "AI" in the title looks a little like a trap. There’s a lot of noise online saying AI builders are a trap, so I went in skeptical. However, the dark theme and the amount of features won me , it looks professional and makes you want to click around just to see if the tools can actually give you something that will help you.
+
+### Key Features and Strengths
+The AI Toolkit: Beyond the builder, having a Job Search and an AI Interviewer in one place is a huge plus.
+The Chatbot: This is the standout. It actually helps you identify where your resume is falling short. It feels like a collaborative audit.
+
+### Weakness
+It needs a "Inspiration Engine." While the AI is smart, it would be much better if it pulled bullet point inspiration from real world good resumes. 
+It can be like
+"People in your role often highlight X, did you do something similar in your project?" 
+It keeps the user something to look out to instead of diving in rabbithole of ai
+
+## Resume.io
+### First Impressions and UX
+At first, it feels like "just another" builder. The UI is fine, but it’s a bit generic. They’ve gone for a LinkedIn-style approach with "percentage complete" bars and profile stats. It’s functional, but it doesn't exactly feel like it should.
+
+### Key Features and Strengths
+ All-in-one system: It’s great if you want to stay in one tab. Having job matches and recommended courses in makes it feel like a career hub.
+
+### Weakness
+The marketing for their "Expert Help" is a massive turn-off. Using a hook like 
+"Struggling to get a job? Get expert help"
+ basically tells the user that the product they’re currently using might not be enough to get them hired. 
